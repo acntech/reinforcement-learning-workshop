@@ -14,3 +14,6 @@ Select number of instances to start
 Paste in the user data
 
 Remember to attach the correct network securoty group (which opens up port 8888) and IAM role (to give write access to s3)
+
+### Visualization
+Visualizations in the DQN-notebooks are only supported for Linux and OSX, in addition to headless servers, e.g. AWS EC2 Instances. 
