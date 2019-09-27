@@ -1,3 +1,8 @@
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-sa.svg
+
 # Reinforcement-Learning-Workshop
 Necessary files and notebooks to host a RL workshop on AWS
 
