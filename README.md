@@ -10,7 +10,7 @@ Necessary files and notebooks to host a RL workshop on AWS
 
 ### Setup
 
-An AWS Image is created for this workshop is is setup to start a docker with the reinforcement learning environment and automatically launch jupyter notebook on port 8888. To access this notebook, a link is generated with the corresponding IP, port and token.
+An AWS Image is used to create a docker container with the reinforcement learning environment, and automatically launch a Jupyter Notebook on port 8888. To access this notebook, a link is generated with the corresponding IP, port and token.
 
 ### Steps to launch instances for the WS
 
