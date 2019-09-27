@@ -16,7 +16,7 @@ An AWS Image is used to create a docker container with the reinforcement learnin
 
 1. Select number of instances to start
 2. Paste in the user data
-3. Remember to attach the correct network securoty group (which opens up port 8888) and IAM role (to give write access to s3)
+3. Remember to attach the correct network security group (which opens up port 8888) and IAM role (to give write access to s3)
 
 ### Visualization
 Visualizations in the DQN-notebooks are only supported for Linux and OSX, in addition to headless Linux servers, e.g. an AWS EC2 Linux instance. 
