@@ -20,6 +20,6 @@ Content-Disposition: attachment; filename="userdata.txt"
 #!/bin/bash
 cd /home/ubuntu/RL_folder
 git clone https://github.com/acntech/reinforcement-learning-workshop
-cd /home/ubuntu/RL_folder/reinforcement-Learning-Workshop
+cd /home/ubuntu/RL_folder/reinforcement-learning-workshop
 sudo bash start-docker
 --//
